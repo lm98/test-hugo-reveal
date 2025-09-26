@@ -11,7 +11,7 @@ aliases = [
 +++
 
 
-# Short guide to Markdown slides
+# Short guide to Markdown slides (Test Hugo Reveal Deployment)
 
 ---
 
